@@ -1,4 +1,4 @@
-# 🎈 Aleks-Zinevych-birthday-page 🎈
+# 🎈 Birthday card for my friend 🎈
 
 Here is the result: https://zinevych25.surge.sh
 
